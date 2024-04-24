@@ -4,11 +4,12 @@ This project showcases a simple cat painting using HTML and CSS.
 
 ## Preview
 
-![Cat Painting Preview](cat-painting.png)
+![Cat Painting Preview_1](./ss_1.png)
+![Cat Painting Preview_2](./ss_2.png)
 
 ## Live Demo
 
-Check out the live demo [here](https://example.com/cat-painting).
+Check out the live demo [here](https://manglam11.github.io/cat_panting/).
 
 ## Description
 
@@ -20,7 +21,7 @@ To view this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cat-painting.git
+   git clone https://github.com/Manglam11/cat_panting.git
    ```
 
 ## Usage
@@ -38,14 +39,10 @@ This project is open source and available under the [MIT License](https://openso
 In this `README.md`:
 
 - `# fCC Cat Painting`: The main title of your project.
-- `## Preview`: An image (`cat-painting.png`) showcasing the cat painting.
+- `## Preview`: An image (`./ss_1.png`) showcasing the cat painting.
 - `## Live Demo`: A link to the live demo of your project.
 - `## Description`: A brief description of your project.
 - `## Installation`: Instructions for cloning and running the project locally.
 - `## Usage`: Information about how to use and modify the project.
 - `## Credits`: Acknowledgment of the project's origin or contributors.
 - `## License`: Information about the project's license.
-
-Make sure to replace placeholders (`https://example.com/cat-painting`, `your-username`, `cat-painting.png`, etc.) with the actual URLs, usernames, and file names relevant to your project.
-
-You can include this `README.md` file at the root of your project repository to provide clear documentation and information about your cat painting project. Customize the content further based on your specific needs and project details. If you have any questions or need additional help, feel free to ask!
